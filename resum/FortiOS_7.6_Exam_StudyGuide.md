@@ -1,5 +1,5 @@
 # FortiOS 7.6 — Guide de révision condensé
-*Basé sur les Quiz 2, 3 et 4 (60 questions)*
+*Basé sur les Quiz partagés*
 
 ---
 
