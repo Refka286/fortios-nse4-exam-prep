@@ -87,6 +87,4 @@ D'après les corrigés, les questions les plus "piège" concernent :
 4. **Web filter : Exempt vs Warning vs Override rating** — bien distinguer les 3 mécanismes.
 5. **SD-WAN : règle implicite vs zones système non supprimables**.
 
----
 
-*Veux-tu que je te fasse un quiz interactif rapide sur ces points faibles, ou que je détaille un sujet précis (ex: HA, IPsec, NAT) plus en profondeur ?*
